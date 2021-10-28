@@ -156,7 +156,7 @@ pragma solidity 0.8.7;
 
 import {
     LibraryMappingString
-} from "@solidity-utilities/mapped-addresses/contracts/LibraryMappingString.sol";
+} from "@solidity-utilities/library-mapping-string/contracts/LibraryMappingString.sol";
 
 /// @title Programming interface for storing string mapping data
 /// @author S0AndS0
