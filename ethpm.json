@@ -1,0 +1,22 @@
+{
+  "package_name": "library-mapping-string",
+  "version": "0.0.1",
+  "description": "Solidity library for mapping of string key/value pairs",
+  "authors": ["S0AndS0 <https://github.com/S0AndS0>"],
+  "links": {
+    "website": "https://solidity-utilities.github.io/library-mapping-string/",
+    "documentation": "https://github.com/solidity-utilities/library-mapping-string#readme",
+    "repository": "https://github.com/solidity-utilities/library-mapping-string"
+  },
+  "keywords": [
+    "ethereum",
+    "library",
+    "mapping",
+    "solidity",
+    "string",
+    "truffle"
+  ],
+  "license": "AGPL-3.0",
+  "manifest": "ethpm/3",
+  "dependencies": {}
+}
