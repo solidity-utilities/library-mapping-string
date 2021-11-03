@@ -1,6 +1,6 @@
 {
   "name": "@solidity-utilities/library-mapping-string",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Solidity library for mapping of string key/value pairs",
   "main": "null",
   "directories": {
