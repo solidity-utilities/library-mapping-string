@@ -886,7 +886,7 @@ For further details review full length version of [AGPL-3.0][branch__current__li
 
 
 [badge__github_actions]:
-  https://img.shields.io/github/workflow/status/solidity-utilities/library-mapping-string/test?event=push
+  https://github.com/solidity-utilities/library-mapping-string/actions/workflows/test.yaml/badge.svg?branch=main
 
 [activity_log__github_actions]:
   https://github.com/solidity-utilities/library-mapping-string/deployments/activity_log
