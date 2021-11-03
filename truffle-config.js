@@ -36,7 +36,7 @@
  * }
  * ```
  */
-const infura_project_id = "452033b0e1a041c9ad40d9690a512225";
+const infura_project_id = "";
 const fs = require("fs");
 const os = require("os");
 const path = require("path");
@@ -147,7 +147,7 @@ module.exports = {
           //     "userdoc",
           //   ],
           // },
-          "contracts/LibraryMappingAddress.sol": {
+          "contracts/LibraryMappingString.sol": {
             "*": ["devdoc", "userdoc"],
           },
         },
@@ -175,4 +175,5 @@ module.exports = {
   //   }
   // }
   // }
+  plugins: ["truffle-contract-size"],
 };
