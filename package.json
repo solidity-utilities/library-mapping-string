@@ -37,7 +37,7 @@
     "url": "https://liberapay.com/solidity-utilities/"
   },
   "devDependencies": {
-    "@truffle/hdwallet-provider": "^1.5.1",
+    "@truffle/hdwallet-provider": "^2.0.0",
     "ganache-cli": "^6.12.2",
     "husky": "^7.0.2",
     "soldocgen": "^0.0.3",
